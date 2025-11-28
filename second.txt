@@ -1,5 +1,11 @@
 The github repositry
 welcome
+<<<<<<< HEAD
 welcome
 welcome
 welcome
+=======
+hi'
+hello
+
+>>>>>>> 27c271d (Conflicts)
